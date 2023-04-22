@@ -1,2 +1,2 @@
 # Spring-Web-MVC
-JAVA+JSP
+JAVA(Servlet)+JSP+HTML+XML
